@@ -1,4 +1,5 @@
-import time, webbrowser
+import time
+import webbrowser
 
 
 total_breaks = 6
